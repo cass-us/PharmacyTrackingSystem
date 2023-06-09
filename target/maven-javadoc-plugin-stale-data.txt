@@ -1,0 +1,54 @@
+@options
+@packages
+-classpath
+'C:/Users/STUDIO 18/.m2/repository/javax/javaee-web-api/6.0/javaee-web-api-6.0.jar;C:/Users/STUDIO 18/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.14.0/jackson-databind-2.14.0.jar;C:/Users/STUDIO 18/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.14.0/jackson-core-2.14.0.jar;C:/Users/STUDIO 18/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.14.0/jackson-annotations-2.14.0.jar;C:/Users/STUDIO 18/.m2/repository/mysql/mysql-connector-java/8.0.28/mysql-connector-java-8.0.28.jar;C:/Users/STUDIO 18/.m2/repository/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/JavaProgs/TRACKING_SYSTEM/ONLINE_TRACKING_SYSTEM/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/JavaProgs/TRACKING_SYSTEM/ONLINE_TRACKING_SYSTEM/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ONLINE_TRACKING_SYSTEM 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/JavaProgs/TRACKING_SYSTEM/ONLINE_TRACKING_SYSTEM/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'ONLINE_TRACKING_SYSTEM 1.0-SNAPSHOT API'
+za.co.mie.controlller
+za.co.mie.daoImp
+za.co.mie.daoInterfaces
+za.co.mie.db.listener
+za.co.mie.model
+za.co.mie.serviceImp
+za.co.mie.serviceInterface
+C:\Users\STUDIO 18\.m2\repository\javax\javaee-web-api\6.0\javaee-web-api-6.0.jar = 1683623140963
+C:\Users\STUDIO 18\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.14.0\jackson-databind-2.14.0.jar = 1683550418818
+C:\Users\STUDIO 18\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.14.0\jackson-core-2.14.0.jar = 1683550418291
+C:\Users\STUDIO 18\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.14.0\jackson-annotations-2.14.0.jar = 1683550302286
+C:\Users\STUDIO 18\.m2\repository\mysql\mysql-connector-java\8.0.28\mysql-connector-java-8.0.28.jar = 1683273484022
+C:\Users\STUDIO 18\.m2\repository\com\google\protobuf\protobuf-java\3.11.4\protobuf-java-3.11.4.jar = 1683273484021
+C:\JavaProgs\TRACKING_SYSTEM\ONLINE_TRACKING_SYSTEM\src\main\java = 1685945983018
+C:\JavaProgs\TRACKING_SYSTEM\ONLINE_TRACKING_SYSTEM\target\apidocs\allclasses-frame.html = 1686308607652
+C:\JavaProgs\TRACKING_SYSTEM\ONLINE_TRACKING_SYSTEM\target\apidocs\allclasses-noframe.html = 1686308607654
+C:\JavaProgs\TRACKING_SYSTEM\ONLINE_TRACKING_SYSTEM\target\apidocs\constant-values.html = 1686308607463
+C:\JavaProgs\TRACKING_SYSTEM\ONLINE_TRACKING_SYSTEM\target\apidocs\deprecated-list.html = 1686308607651
+C:\JavaProgs\TRACKING_SYSTEM\ONLINE_TRACKING_SYSTEM\target\apidocs\help-doc.html = 1686308607660
+C:\JavaProgs\TRACKING_SYSTEM\ONLINE_TRACKING_SYSTEM\target\apidocs\index-all.html = 1686308607648
+C:\JavaProgs\TRACKING_SYSTEM\ONLINE_TRACKING_SYSTEM\target\apidocs\index.html = 1686308607655
+C:\JavaProgs\TRACKING_SYSTEM\ONLINE_TRACKING_SYSTEM\target\apidocs\overview-frame.html = 1686308607386
+C:\JavaProgs\TRACKING_SYSTEM\ONLINE_TRACKING_SYSTEM\target\apidocs\overview-summary.html = 1686308607657
+C:\JavaProgs\TRACKING_SYSTEM\ONLINE_TRACKING_SYSTEM\target\apidocs\overview-tree.html = 1686308607637
+C:\JavaProgs\TRACKING_SYSTEM\ONLINE_TRACKING_SYSTEM\target\apidocs\package-list = 1686308607383
+C:\JavaProgs\TRACKING_SYSTEM\ONLINE_TRACKING_SYSTEM\target\apidocs\script.js = 1686308607662
+C:\JavaProgs\TRACKING_SYSTEM\ONLINE_TRACKING_SYSTEM\target\apidocs\serialized-form.html = 1686308607473
+C:\JavaProgs\TRACKING_SYSTEM\ONLINE_TRACKING_SYSTEM\target\apidocs\stylesheet.css = 1686308607662
